@@ -1,0 +1,6 @@
+﻿  SnakeMultiplayer.cpp
+c:\users\mati8\desktop\graty\programowanieobiektoweprojekt\code\snakemultiplayer\snakemultiplayer\snakemultiplayer.cpp(86): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\mati8\desktop\graty\programowanieobiektoweprojekt\code\snakemultiplayer\snakemultiplayer\snakemultiplayer.cpp(122): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\mati8\desktop\graty\programowanieobiektoweprojekt\code\snakemultiplayer\snakemultiplayer\snakemultiplayer.cpp(398): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\mati8\desktop\graty\programowanieobiektoweprojekt\code\snakemultiplayer\snakemultiplayer\snakemultiplayer.cpp(425): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  SnakeMultiplayer.vcxproj -> C:\Users\mati8\Desktop\Graty\ProgramowanieObiektoweProjekt\Code\SnakeMultiplayer\Debug\SnakeMultiplayer.exe

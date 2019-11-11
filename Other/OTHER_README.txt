@@ -1,0 +1,1 @@
+Place for other files that are not graphic nor code.

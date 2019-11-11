@@ -1,0 +1,5 @@
+﻿  WinSocketTest_Client.cpp
+c:\users\student249180\documents\programowanieobiektoweprojekt\other\winsockettest_client\winsockettest_client\winsockettest_client.cpp(92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\student249180\documents\programowanieobiektoweprojekt\other\winsockettest_client\winsockettest_client\winsockettest_client.cpp(145): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\student249180\documents\programowanieobiektoweprojekt\other\winsockettest_client\winsockettest_client\winsockettest_client.cpp(426): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WinSocketTest_Client.vcxproj -> C:\Users\Student249180\Documents\ProgramowanieObiektoweProjekt\Other\WinSocketTest_Client\x64\Debug\WinSocketTest_Client.exe
